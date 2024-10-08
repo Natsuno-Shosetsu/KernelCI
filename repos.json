@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "Bloss-Shine",
-      "repo": "https://github.com/Shiinaeru-Lab/kernel_xiaomi_ysl",
-      "branch": "main",
-      "device": "ysl",
-      "defconfig": "ysl_defconfig"
+      "name": "oxygen-wip",
+      "repo": "https://github.com/Natsuno-Shosetsu/kernel-xiaomi-oxygen",
+      "branch": "base",
+      "device": "oxygen",
+      "defconfig": "vendor/msm8953-perf_defconfig"
   },
     "withKernelSU": false,
     "toolchains": [
@@ -37,8 +37,8 @@
     "AnyKernel3": {
       "use": true,
       "release": true,
-      "repo": "https://github.com/Renzprjkt30/Anykernel3",
-      "branch": "main"
+      "repo": "https://github.com/ALprjkt/Anykernel3",
+      "branch": "ysl"
     }
   }
 ]
