@@ -2,8 +2,8 @@
   {
     "kernelSource": {
       "name": "onepiece-ysl-new-dtsi",
-      "repo": "https://github.com/shenprjkt/kernel_xiaomi_ysl",
-      "branch": "test",
+      "repo": "https://github.com/Natsuno-Shosetsu/android_kernel_xiaomi_msm8953",
+      "branch": "13",
       "device": "ysl",
       "defconfig": "ysl_defconfig"
   },
@@ -37,8 +37,8 @@
     "AnyKernel3": {
       "use": true,
       "release": true,
-      "repo": "https://github.com/Renzprjkt30/Anykernel3",
-      "branch": "main"
+      "repo": "https://github.com/ALprjkt/Anykernel3",
+      "branch": "ysl"
     }
   }
 ]
