@@ -2,10 +2,10 @@
   {
     "kernelSource": {
       "name": "onepiece-ysl-new-dtsi",
-      "repo": "https://github.com/Natsuno-Shosetsu/android_kernel_xiaomi_msm8953",
-      "branch": "13",
+      "repo": "https://github.com/Natsuno-Shosetsu/msm-4.19",
+      "branch": "main",
       "device": "ysl",
-      "defconfig": "ysl_defconfig"
+      "defconfig": "vendor/msm8953-perf_defconfig"
   },
     "withKernelSU": false,
     "toolchains": [
